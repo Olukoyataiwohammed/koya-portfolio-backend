@@ -83,7 +83,7 @@ ALLOWED_HOSTS = [
 ]
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://your-vercel-app.vercel.app"
+    "https://koya-portfolio.vercel.app"
 ]
 
 ROOT_URLCONF = 'config.urls'
