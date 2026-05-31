@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-SECRET_KEY = os.getenv("SECRET_KEY")
+SECRET_KEY = "django-insecure-8x9k2c!random-safe-key-123456789"
 DEBUG = os.getenv("DEBUG") == "True"
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
