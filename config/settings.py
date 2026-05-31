@@ -82,7 +82,8 @@ ALLOWED_HOSTS = [
     "localhost"
 ]
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173"
+    "http://localhost:5173",
+    "https://your-vercel-app.vercel.app"
 ]
 
 ROOT_URLCONF = 'config.urls'
