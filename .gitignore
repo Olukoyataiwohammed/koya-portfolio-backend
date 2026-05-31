@@ -1,0 +1,26 @@
+# Virtual environment
+koya/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Uploaded media files
+media/
+
+# VS Code settings (optional)
+.vscode/
+
+# Python build files
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
